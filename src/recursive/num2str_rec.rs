@@ -61,5 +61,6 @@ mod test {
     #[test]
     fn num2str_test_all(){
         num2str_rec_test();
+        num2str_stk_test();
     }
 }
